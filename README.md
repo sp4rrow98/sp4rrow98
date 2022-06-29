@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @sp4rrow98
-- 🌴 I am currently working on my portofolio
-- 🖥️ Web Developer
 - 👨‍🎓 Student
 
 ![](https://komarev.com/ghpvc/?username=sp4rrow98)
